@@ -1,5 +1,5 @@
 # parcel-vue-demo
-parcel-vue-demo
 
-yarn add
+yarn add || npm install
+
 parcel index.html
